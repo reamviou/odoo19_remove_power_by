@@ -1,0 +1,1 @@
+# odoo19_remove_power_by
